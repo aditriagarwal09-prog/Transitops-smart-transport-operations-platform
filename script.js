@@ -3,6 +3,7 @@
    Talks to the backend REST API (see /backend). No local data mocking —
    every read/write goes through fetch() calls defined in the API layer below.
    ========================================================================= */
+/*-------------------------------------------starting of the program----------------------------------------------------*/
 
 /* ---------------- API LAYER ---------------- */
 const API_BASE = window.TRANSITOPS_API_BASE || 'http://localhost:4000/api';
