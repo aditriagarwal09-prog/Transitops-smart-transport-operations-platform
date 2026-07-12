@@ -1,5 +1,5 @@
 # Transitops-smart-transport-operations-platform
-this is the hackathon  
+this is the Odoo hackathon 2026 
  TransitOps – Fleet Operations Console
 
 📌 Overview
