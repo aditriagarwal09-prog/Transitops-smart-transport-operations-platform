@@ -48,7 +48,7 @@ a{color:inherit;}
 button{font-family:inherit; cursor:pointer;}
 input,select,textarea{font-family:inherit;}
 
-/* ---------- scrollbar ---------- */
+/* ---------- scrollbar for scrolling ---------- */
 ::-webkit-scrollbar{width:10px; height:10px;}
 ::-webkit-scrollbar-track{background:transparent;}
 ::-webkit-scrollbar-thumb{background:var(--line); border-radius:8px;}
